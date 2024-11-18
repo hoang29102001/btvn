@@ -1,0 +1,23 @@
+#header{
+    text-align: center;
+    background-color: antiquewhite;
+    color: red;
+}
+#content{
+    text-align: center;
+    color: red;
+}
+.new{
+    color: blue;
+}
+.highlight{
+    background-color: yellow;
+}
+.newhighlight{
+    color: aqua;
+    background-color: yellow;
+}
+#footer{
+    text-align: right;
+    background-color: bisque;
+}

@@ -1,0 +1,10 @@
+.box {
+    width: 300px;
+    padding: 50px;
+    margin: 50px;
+    border: 30px solid dodgerblue;
+    background-color: #f0f0f0;
+    color: #333;
+    font-family: Arial, sans-serif;
+    text-align: justify;
+  }
